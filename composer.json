@@ -3,7 +3,7 @@
     "description": "tp6核心包",
     "autoload": {
         "psr-4": {
-            "Juns_C\\Core\\": "src/"
+            "Juns\\Core\\": "src/"
         }
     },
     "authors": [
