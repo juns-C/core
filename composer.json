@@ -1,0 +1,16 @@
+{
+    "name": "juns/core",
+    "description": "tp6核心包",
+    "autoload": {
+        "psr-4": {
+            "Juns\\Core\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "juns"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
