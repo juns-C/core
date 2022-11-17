@@ -1,0 +1,17 @@
+{
+    "name": "juns_c/core",
+    "description": "tp核心包",
+    "autoload": {
+        "psr-4": {
+            "JunsC\\Core\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "juns",
+            "email": "1119122750@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
